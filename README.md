@@ -1,0 +1,2 @@
+# HashingAlgorithm
+Bir arama moturu, web sayfalarına ait dokümanları büyük bir veritabanında saklamaktadır. Bu ödevde, eklenmek istenen yeni bir dokümanın veritabanında olup olmadığını kontrol eden, eğer yoksa veritabanına ekleyen bir sistem tasarlanmıştır. Dokümanın veritabanında olup olmadığının mevcut bütün dokümanların içeriklerine tek tek bakılarak yapılması zaman alıcı bir işlemdir. Bu nedenle hashing ile yapılmıştır. 
